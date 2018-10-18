@@ -12,5 +12,5 @@ domainavailable.py -t .com -d security,internet,network
 La commande donnera:
 securityinternet.com securitynetwork.com internetsecurity.com internetnetwork.com networkinternet.com networksecurity.com
 
-Si vous ne renseigné pas l'argument -d les domaines seront testés avec les tld suivant:
+Si vous ne renseigné pas l'argument -t les domaines seront testés avec les tld suivant:
 .com .fr .net .org .int .info .paris .edu .uk
